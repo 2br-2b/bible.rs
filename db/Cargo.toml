@@ -5,7 +5,7 @@ authors = ["Dustin Speckhals <dustin1114@gmail.com>"]
 edition = "2018"
 
 [dependencies.diesel]
-version = "1.4.5"
+version = "1.4.6"
 default-features = false
 features = ["sqlite", "r2d2"]
 
